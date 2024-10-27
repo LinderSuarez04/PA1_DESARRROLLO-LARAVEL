@@ -45,7 +45,7 @@
         <!-- Messages Dropdown Menu -->
         <li class="nav-item dropdown">
           <a class="nav-link" data-toggle="dropdown" href="#">
-            <i class="fa fa-user text-warning"></i> Juan Carlos Arcila
+            <i class="fa fa-user text-warning"></i> Usuario
           </a>
           <div class="dropdown-menu dropdown-menu-lg dropdown-menu-right">
             <a href="#" class="dropdown-item text-sm"><i class="fas fa-user-cog text-primary"></i> Perfil</a>
