@@ -16,5 +16,5 @@ Route::get('/inicio', function () {
 });
 
 Route::get('/producto', function () {
-    return view('plantilla/app');
+    return view('producto/indexProducto');
 });
